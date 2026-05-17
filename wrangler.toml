@@ -1,5 +1,5 @@
 name = "gaokao"
-main = "main.tsx" # 如果你没有后端逻辑，这一行可以暂时不写或指向一个空的ts文件
+main = "src/main.tsx" # 如果你没有后端逻辑，这一行可以暂时不写或指向一个空的ts文件
 compatibility_date = "2026-05-17"
 
 # 核心配置：告诉 Worker 你的静态文件在 dist 目录
