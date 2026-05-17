@@ -4,4 +4,4 @@ compatibility_date = "2026-05-17"
 
 # 核心配置：告诉 Worker 你的静态文件在 dist 目录
 [assets]
-directory = "./dist"
+directory = "dist"
